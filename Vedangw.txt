@@ -1,0 +1,6 @@
+Vedang Wategaonakr
+
+
+How Git Stores Data
+Git's data model is based on an object store within the hidden .git directory of a repository. Everything in Git is checksummed using a SHA-1 hash before it is stored, ensuring data integrity. The core components of this store are four."We are here"
+"We are here"
